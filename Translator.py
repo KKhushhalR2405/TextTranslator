@@ -15,7 +15,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\t
 
 ####--------Main--------####
 
-img = cv2.imread("img2.jpg")
+img = cv2.imread("img3.jpg")  #change image path accordingly
 text=pytesseract.image_to_string(img)
 print(text)
 print(trans(text))
