@@ -20,3 +20,4 @@ To install Googletrans :
 ```diff
 $ pip install googletrans
 ```
+.
