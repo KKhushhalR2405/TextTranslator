@@ -21,3 +21,4 @@ To install Googletrans :
 $ pip install googletrans
 ```
 .
+.
